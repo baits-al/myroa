@@ -103,8 +103,8 @@ author = "MyRoA"
 googleAnalitycsID = "" # Your ID
 
 # Contact Information
-mobile = "0124857985320"
-email = ""
+mobile = "355684013331"
+email = "info@baits.al"
 location = "Tirana, Albania"
 # copyright
 copyright = ""
@@ -144,10 +144,6 @@ productReview = false
   [[params.social]]
   icon = "ti-instagram"
   link = "https://www.instagram.com/myroalbania/"
-
-  [[params.social]]
-  icon = "ti-whatsup"
-  link = "#"
 
 #  [[params.social]]
 #  icon = "ti-twitter-alt"
