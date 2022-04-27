@@ -1,0 +1,10 @@
+###################### Call to action ########################
+cta:
+  enable : false
+  title : ""
+  content : ""
+  image : "images/cta.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "All Products"
+    link : "products"
