@@ -1,29 +1,18 @@
 ---
-title: "MAISON VIOLET: Sketch "
-category: "VIOLET"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "75 ml" 
-
-
-# product Price
+title: 'MAISON VIOLET: Sketch '
+category: VIOLET
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 75 ml
 price: "155"
-
-# Product Short Description
-shortDescription: "The richness of its fragrance is matched only by the elegance of its wake. It is the sketch of a pencil stroke on a gold leaf. Deep, sensual and reassuring, it is the theater of all possibilities. Throughout each stroke, it stuns with its proud humility. Its patchouli chypre accord, coupled with its evanescent nutmeg, offers a new and bold definition of the heritage of perfumery. To refresh its captivating heart of heady tuberose and enveloping roses, a zesty and spicy boost has been administered thanks to the alliance of bergamot and pink pepper. An explosive sketch wrapped in an addictive vanilla from Madagascar.  **75ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Pasuria e këtij parfumi përputhet vetëm me elegancën e tij. Është
+  si skica e një lapsi që rrëshket në një gjethe të zverdhur nga vjeshta. I thellë,
+  sensual dhe qetësues, ai është teatri i të gjitha mundësive që gjenden në përulësinë
+  krenare. Kombinimi i patchulit me arrëmyshkun e lehtë ofron një përkufizim të ri
+  dhe të guximshëm të trashëgimisë së parfumerisë. SKETCH mbështillet në fund nga
+  një vanilje Madagaskari, e cila ngel si një kujtim në thellësinë e nuhatjes.  **75ml-EDP-UNISEX**
 productID: "51"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/violet/Sketch.jpg"
- 
+- image: images/products/violet/Sketch.jpg
+
 ---
