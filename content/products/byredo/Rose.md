@@ -1,29 +1,17 @@
 ---
-title: "BYREDO: LIL FLEUR ROSE"
-category: "BYREDO"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "100 ml" 
-
-
-# product Price
+title: 'BYREDO: LIL FLEUR ROSE'
+category: BYREDO
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 100 ml
 price: "200"
-
-# Product Short Description
-shortDescription: "Lil Fleur is inspired by a heady, surging world of youthful emotions, both happy and sad, and with a great debt to music, the scent is ultimately an interpretation of promise and potential, audaciousness and sincerity - youth & happiness. **INGREDIENTS**: At its heart is a Damascena Rose, sparkling, crisp and enveloping in its sweetness. Top notes of Cassis and Tangerine, add to the crisp sparkle. While Saffron soothes in its warm tones. Blonde Woods, Amber and Vanilla, add notes of sophistication at the base of the fragrance.  **100ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Nëse ju pëlqejnë aromat që sjellin kujtime të gjalla atëherë koleksioni
+  Lil Fleur është nga ata që ju sjell aromën e një tufe lulesh të sapo mbledhur nga
+  kopshti i gjyshes. Nëse duhet një aromë jo mbytës për në punë apo edhe thjesht për
+  të dalë, atëherë do shijosh thartësinë dhe freskinë e rrushit dhe mandarinës të
+  prekur nga tonet e lehta të drurit, trëndafilit dhe lëkurës.  **100ml-EDP-UNISEX**
 productID: "17"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/byredo/Rose.jpg"
- 
+- image: images/products/byredo/Rose.jpg
+
 ---
