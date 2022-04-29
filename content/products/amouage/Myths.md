@@ -1,29 +1,16 @@
 ---
-title: "AMOUAGE: Myths"
-category: "AMOUAGE"
-gender: "For Woman"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "50 ml" 
-
-# product Price
+title: 'AMOUAGE: Myths'
+category: AMOUAGE
+gender: For Woman
+date: 2019-10-17T11:22:16.000+06:00
+description: 50 ml
 price: "250"
-
-
-# Product Short Description
-shortDescription: "Inspired by surrealism Myths for Woman paints its floral and green facets with an expression of dark nuances shaded with an ambivalent tone. **INGREDIENTS**: Narcissus, Violet Leaves, Galbanum. Carnation, Patchouli, Ambergris Accord. Leather, Moss, Musk.  **50ml-EDP-WOMAN**"
-
-#product ID
+shortDescription: 'Frymëzuar nga surrealizmi parfumi Amouage Myth i dedikohet femrës
+  që pikturohet në linjat e saj me aromën e luleve dhe të gjelbrën e gjetheve duke
+  shprehur nuancat e errëta të një bukurie të përjetshme. ** PËRBËRËSIT **: Narciz,
+  gjethe manushaqe, karafil, paçuli,  lëkurë, myshk.  **50ml-EDP-WOMAN**'
 productID: "23"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/amouage/MythsW.jpg"
- 
+- image: images/products/amouage/MythsW.jpg
+
 ---
