@@ -1,29 +1,16 @@
 ---
-title: "MAISON VIOLET: COMPLIMENT "
-category: "VIOLET"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "75 ml" 
-
-
-# product Price
+title: 'MAISON VIOLET: COMPLIMENT '
+category: VIOLET
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 75 ml
 price: "155"
-
-# Product Short Description
-shortDescription: "An olfactive force is born when two worlds meet: COMPLIMENT and you. Compliment was imagined as a sunny bouquet. An opening blend of eucalyptus, peony, freesia and orange blossom creates a sensual and explosive tension. How do you compliment someone with flowers and avoid banality? By gifting them a whole radiant composition.  **75ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: 'Një forcë nuhatëse lind kur takohen dy botë: COMPLIMENT dhe ju.
+  Ky parfum është imagjinuar si një buqetë me diell duke synuar që të komplimentoni
+  dikë duke shmangur banalitetin. Një përzierje e hapur e eukaliptit dhe lule portokalli
+  për të krijuar tensionin e duhur të sensualitetit.  **75ml-EDP-UNISEX**'
 productID: "49"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/violet/Compliment.jpg"
- 
+- image: images/products/violet/Compliment.jpg
+
 ---
