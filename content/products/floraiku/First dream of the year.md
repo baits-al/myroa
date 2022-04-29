@@ -1,29 +1,16 @@
 ---
-title: "FLORAIKU: First dream of the year"
-category: "FLORAIKU"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "50 ml + 10 ml" 
-
-
-# product Price
+title: 'FLORAIKU: First dream of the year'
+category: FLORAIKU
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 50 ml + 10 ml
 price: "255"
-
-# Product Short Description
-shortDescription: "First Dream of the Year opens as an opulent white floral with a vivid bitterness peel, thanks to the notes of Grapefruit oil and Orange Blossom oil. Its freshness is like the promise of a new era, with the welcome presence of Iris Concrete absolute.  **Ingredients**: Orange Essence, Petitgrain Essence, Grapefruit Essence, Jasmine Absolute, Vibrant Amber Accord, Musk.**50ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Për të mos harruar ëndrrën e parë të vitit ky parfum vjen si një
+  lule e bardhë e pasur me një lëvozhgë të hidhur të gjallë, falë notave të vajit
+  të qitros dhe vajit të luleve të portokallit. Freskia e tij është si premtimi i
+  një epoke të re, me praninë e mirëpritur të irisit. **50ml  & 10ml -EDP-UNISEX**
 productID: "47"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/floraiku/First dream of the year.jpg"
- 
+- image: images/products/floraiku/First dream of the year.jpg
+
 ---
