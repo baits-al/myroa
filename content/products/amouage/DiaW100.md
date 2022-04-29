@@ -1,30 +1,15 @@
 ---
-title: "AMOUAGE: Dia"
-category: "AMOUAGE"
-gender: "For Woman"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "100 ml" 
-
-
-# product Price
+title: 'AMOUAGE: Dia'
+category: AMOUAGE
+gender: For Woman
+date: 2019-10-17T11:22:16.000+06:00
+description: 100 ml
 price: "325"
-
-# Product Short Description
-shortDescription: "Luxury day wear, a fragrance that is both vibrant and sophisticated. A perfect complement to Amouage Gold. **INGREDIENTS**: Fig, Cyclamen, Bergamot, Tarragon, Sage, Violet Leaves, Bush Peach Blossom, Rose Oil, Orange Flower, Peony, Orris. White Musk, Frankincense, Vanilla, Heliotrope, Cedarwood, Sandalwood, Gaiac Wood. **100ml-EDP-WOMAN**"
-
-
-#product ID
+shortDescription: 'Eleganca plotësohet me një parfum si Amouage Dia, një  aromë e
+  plotë dhe një shembull i shkëlqyer i shijes së hollë ** PËRBËRËSIT **: Kardamom,
+  temjan, bozhure, kumbull, vetiver, lëkurë, paçuli dhe qelibar. **100ml-EDP-WOMAN**'
 productID: "29"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/amouage/DiaWoman.jpg"
- 
+- image: images/products/amouage/DiaWoman.jpg
+
 ---
