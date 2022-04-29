@@ -1,27 +1,13 @@
 ---
-title: "AMOUAGE: Opus XI"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "50 ml" 
-
-
-# product Price
+title: 'AMOUAGE: Opus XI'
+date: 2019-10-17T11:22:16.000+06:00
+description: 50 ml
 price: "300"
-
-# Product Short Description
-shortDescription: "Powerful and intoxicating, Opus XI illustrates the inimitable dynamics of Oud.  **INGREDIENTS**: Marjoram. Oud. Styrax, Woodleather.   **50ml-EDP-MAN**"
-
-#product ID
+shortDescription: 'I fuqishëm dhe dehës, Opus XI ilustron dinamikën e paimitueshme
+  të Oud. Nuk është për këdo, vetëm për ata meshkuj që duan aromat e forta dhe që
+  bëhen një me një parfum që deh. ** PËRBËRËSIT **: Marjoram, oud, styrax, lëkurë.  **50ml-EDP-MAN**'
 productID: "39"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/amouage/OpusXI50.jpg"
- 
+- image: images/products/amouage/OpusXI50.jpg
+
 ---
