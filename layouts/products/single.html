@@ -28,7 +28,7 @@
           <span class="lead text-primary font-weight-medium">{{ site.Params.currencySymbol }}{{ .Params.Price
             }}</span>
         </div>
-        <h5>Short Description</h5>
+        <h5>{{ .Params.ShortDescriptionTitle }}</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
         {{ if site.Params.snipcartEnable }}
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
