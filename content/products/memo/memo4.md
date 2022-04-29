@@ -1,28 +1,15 @@
 ---
-title: "MEMO Moroccan Leather"
-category: "Memo"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "75 ml" 
-
-
-# product Price
+title: MEMO Moroccan Leather
+category: Memo
+date: 2019-10-17T11:22:16.000+06:00
+description: 75 ml
 price: "225"
-
-# Product Short Description
-shortDescription: "Iris colours, inspired by the indigo alleys of Chefchaouen, in Morocco, it combines the floral character of iris fields and the fresh breeze of orange blossoms with a warm touch of musk and tonka bean, to reveal a leather accord and an exceptional fragrance. Lively and deep.  **75ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Ngjyrat e ndezura të irisit, frymëzuar nga rrugicat plot aroma të
+  Marokut, kombinohen me flladin e freskët të luleve të portokallit ndërsa preken
+  lehtë nga një aromë e ngrohtë myshku dhe tonka, për të zbuluar një akord të mrekullueshëm
+  sapo e sprucon pak në lëkurë.  **75ml-EDP-UNISEX**
 productID: "4"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/memo/Memo_5.jpg"
- 
+- image: images/products/memo/Memo_5.jpg
+
 ---
