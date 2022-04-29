@@ -1,29 +1,18 @@
 ---
-title: "BYREDO: LIL FLEUR CASSIS"
-category: "BYREDO"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "100 ml" 
-
-
-# product Price
+title: 'BYREDO: LIL FLEUR CASSIS'
+category: BYREDO
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 100 ml
 price: "200"
-
-# Product Short Description
-shortDescription: "Lil Fleur is inspired by a heady, surging world of youthful emotions, both happy and sad, and with a great debt to music, the scent is ultimately an interpretation of promise and potential, audaciousness and sincerity - youth & happiness. **INGREDIENTS**: At its heart is a Damascena Rose, sparkling, crisp and enveloping in its sweetness. Top notes of Cassis and Tangerine, add to the crisp sparkle. While Saffron soothes in its warm tones. Blonde Woods, Amber and Vanilla, add notes of sophistication at the base of the fragrance. **100ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Lil Fleur është një aromë e pazakontë për meshkuj dhe femra. Ëmbëlsia
+  pikante e bën pak të ''egër'' por ama është parfumi ideal për çdo stinë. Për të
+  qënë pak më të shkujdesur, romantikë dhe të freskët baza e trëndafilit shfaqet e
+  shoqëruar me thellësinë e frutave të tharta që të ngelen gjatë në kujtesën e nuhatjes.
+  Për herë të parë në historinë e markës, kapaku ikonik i zi zëvendësohet me ngjyra
+  në këtë koleksion. **100ml-EDP-UNISEX**
 productID: "20"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/byredo/Cassis.jpg"
- 
+- image: images/products/byredo/Cassis.jpg
+
 ---
