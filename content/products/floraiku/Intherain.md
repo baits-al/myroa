@@ -1,30 +1,16 @@
 ---
-title: "FLORAIKU: In the rain"
-category: "FLORAIKU"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "50 ml + 10 ml" 
-
-
-# product Price
+title: 'FLORAIKU: In the rain'
+category: FLORAIKU
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 50 ml + 10 ml
 price: "255"
-
-# Product Short Description
-shortDescription: "In the Rain, hosting oil of Bergamot, Cedarwood oil and Woody musk, recalls the intense woody and green smell that can arise after a downpour leaving a powerful wake.  **Ingredients**: Lentisk Essence, Sandalwood Amber.**50ml-EDP-UNISEX**"
-
-
-#product ID
+shortDescription: Ky parfum sjell kujtimet e asaj aromës që ndihet pas një shiu pranveror
+  kur natyra është falenderuese për freskinë. Ndezur nga vaji i bergamotit, vaji i
+  drurit të kedrit dhe myshku i drurit për të të kujtuar pikërisht aromën intensive
+  të drurit dhe gjelbërimit. **50ml & 10ml -EDP-UNISEX**
 productID: "42"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/floraiku/Intherain.jpg"
- 
+- image: images/products/floraiku/Intherain.jpg
+
 ---
