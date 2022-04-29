@@ -1,30 +1,16 @@
 ---
-title: "FLORAIKU: AO"
-category: "FLORAIKU"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "50 ml + 10 ml" 
-
-
-# product Price
+title: 'FLORAIKU: AO'
+category: FLORAIKU
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 50 ml + 10 ml
 price: "255"
-
-# Product Short Description
-shortDescription: "AO combines Tangerine oil with notes of warm, woody Figs and Myrrh oil and lead to a fruity fragrance that develops elegantly on the skin.  **Ingredients**: Pink-Pepper Oil, Jasmine Absolute, Violet, Myrrh Oil, Tonka Bean Absolute, Haiti Vetiver Oil.**50ml-EDP-UNISEX**"
-
-
-#product ID
+shortDescription: AO është një parfum që kombinon vajin e mandarinës me notat e fikut
+  të ngrohtë dhe me lehtësinë e aromës së drunjtë të vajit të mirrës. Është për ata
+  që duan aromë frutash që ngrihet në mënyrë elegante nga kimia e lëkurës. **50ml
+  & 10ml -EDP-UNISEX**
 productID: "45"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/floraiku/AO.jpg"
- 
+- image: images/products/floraiku/AO.jpg
+
 ---
