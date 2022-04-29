@@ -1,30 +1,15 @@
 ---
-title: "AMOUAGE: Portrayal"
-category: "AMOUAGE"
-gender: "For MAN"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "50 ml" 
-
-
-# product Price
+title: 'AMOUAGE: Portrayal'
+category: AMOUAGE
+gender: For MAN
+date: 2019-10-17T11:22:16.000+06:00
+description: 50 ml
 price: "240"
-
-# Product Short Description
-shortDescription: "An olfactive portrayal of the 1920s bohemian culture, this woody and leather fragrance exudes an air of exquisite audacity.  **INGREDIENTS**: Violet Leaves, Vetiver, Cade.   **50ml-EDP-MAN**"
-
-
-#product ID
+shortDescription: 'Një portretizim i një  kulture bohemiane të viteve 1920 mbledhur
+  brenda një shishe parfumi që sjell një aromë druri dhe lëkure për lëkurën e gjithkujt
+  që e spërkat. ** PËRBËRËSIT **: Gjethe vjollce, vetiver.  **50ml-EDP-MAN**'
 productID: "41"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/amouage/Portrayal.jpg"
- 
+- image: images/products/amouage/Portrayal.jpg
+
 ---
