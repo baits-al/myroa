@@ -1,29 +1,17 @@
 ---
-title: "MAISON VIOLET: Pourpre D'Automne"
-category: "VIOLET"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "75 ml" 
-
-
-# product Price
+title: 'MAISON VIOLET: Pourpre D''Automne'
+category: VIOLET
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 75 ml
 price: "155"
-
-# Product Short Description
-shortDescription: "Lipstick on the complexion of a purple cheek, it drapes the nose of its velvet scent. Its warm, autumnal colors radiate into the depths of senses. With the alliance of an organic rose and a purified violet, the perfume is a colorful invitation into the heart of its generous flowers. Its mossy chypré atmosphere associated with benzoin creates a copper-colored carpet which gives Pourpre d’Automne all the poetry of the colorful leaves, twirling over time.  **75ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Një buzëkuq i lehtë në faqen e purpurt që përkëdhel lehtë hundëm
+  me aromën e kadifenjtë. Ngjyrat e ngrohta, vjeshtore lindin nga një aromë trëndafili
+  organik dhe një vjollce të pastër për të sjellë një parfum si një ftesë shumëngjyrëshe
+  nga zemra e luleve. Pourpre d'Automne sjell të gjithë poezinë e gjetheve shumëngjyrëshe,
+  që dorëzohen nën prekjen e  kohës.  **75ml-EDP-UNISEX**
 productID: "53"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/violet/PDA.jpg"
- 
+- image: images/products/violet/PDA.jpg
+
 ---
