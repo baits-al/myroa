@@ -1,29 +1,17 @@
 ---
-title: "BYREDO: LIL FLEUR BLOND WOOD"
-category: "BYREDO"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "100 ml" 
-
-
-# product Price
+title: 'BYREDO: LIL FLEUR BLOND WOOD'
+category: BYREDO
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 100 ml
 price: "200"
-
-# Product Short Description
-shortDescription: "Lil Fleur is inspired by a heady, surging world of youthful emotions, both happy and sad, and with a great debt to music, the scent is ultimately an interpretation of promise and potential, audaciousness and sincerity - youth & happiness. **INGREDIENTS**: At its heart is a Damascena Rose, sparkling, crisp and enveloping in its sweetness. Top notes of Cassis and Tangerine, add to the crisp sparkle. While Saffron soothes in its warm tones. Blonde Woods, Amber and Vanilla, add notes of sophistication at the base of the fragrance. **100ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Frymëzimi që qëndron pas Lil Fleur përmban buzëqeshjet në netët
+  e gjata nën yje dhe lotët e derdhur nga një lamtumirë e padëshiruar. Është një aromë
+  që rizgjon ndjesi të ndryshme si për femra edhe për meshkuj me ëmbëlsinë e trëndafilit
+  të Damaskut dhe me “gjembat pikantë” të frutave të sapopjekura ku nuk mund të mungojë
+  as shafrani dhe mandarina. **100ml-EDP-UNISEX**
 productID: "18"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/byredo/Blond Wood.jpg"
- 
+- image: images/products/byredo/Blond Wood.jpg
+
 ---
