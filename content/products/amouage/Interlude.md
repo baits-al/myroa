@@ -1,30 +1,15 @@
 ---
-title: "AMOUAGE: Interlude"
-category: "AMOUAGE"
-gender: "For MAN"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "100 ml" 
-
-
-# product Price
+title: 'AMOUAGE: Interlude'
+category: AMOUAGE
+gender: For MAN
+date: 2019-10-17T11:22:16.000+06:00
+description: 100 ml
 price: "325"
-
-# Product Short Description
-shortDescription: "Inspired by chaos and disorder this spicy and woody fragrance masquerades an interlude moment of harmony in its heart.
- **INGREDIENTS**: Bergamot, Oregano, Pimento Berry Oil. Amber, Frankincense, Cistus, Opoponax. Leather, Agarwood Smoke, Patchouli, Sandalwood.  **100ml-EDP-MAN**"
-
-#product ID
+shortDescription: 'Frymëzuar nga kaosi dhe rrëmuja, kjo aromë pikante dhe drusore
+  maskon një moment harmonie në zemrën e asaj që e ka hedhur. ** PËRBËRËSIT **: Bergamot,
+  rigon, vaj manaferre, qelibar, temjan, lëkurë, paçuli dhe dru sandali.   **100ml-EDP-MAN**'
 productID: "32"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/amouage/Interlude.jpg"
- 
+- image: images/products/amouage/Interlude.jpg
+
 ---
