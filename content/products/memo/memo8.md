@@ -1,29 +1,15 @@
 ---
-title: "MEMO Russian Leather"
-category: "Memo"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "75 ml" 
-
-
-# product Price
+title: MEMO Russian Leather
+category: Memo
+date: 2019-10-17T11:22:16.000+06:00
+description: 75 ml
 price: "225"
-
-# Product Short Description
-shortDescription: "Imagine being in a frozen fougère and venturing into the northern realms where humans are scarce. An exposed and lofty space, where everything is intensely Russian. In this kingdom of bleak steppes, endless forests and icy plains, the boldness of plant life emerges in full glory. The stubborn fern challenging the tundra inspires a fougère accord that takes pride of place in the fragrance.  **75ml-EDP-UNISEX**"
-
-
-#product ID
+shortDescription: Sapo sprucon pak nga ky parfum, aroma të largon me imagjinatë në
+  një akullnajë të heshtur. Në këtë mbretëri të stepave të zymta, pyjeve të pafundme
+  dhe fushave të akullta, guximi i jetës së bimëve shfaqet me lavdi të plotë për t’u
+  mbledhur brenda një shishe parfumi nga Memo.  **75ml-EDP-UNISEX**
 productID: "8"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/memo/Memo_5.jpg"
- 
+- image: images/products/memo/Memo_5.jpg
+
 ---
