@@ -1,29 +1,16 @@
 ---
-title: "FLORAIKU: My love has the color of the night"
-category: "FLORAIKU"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "50 ml + 10 ml" 
-
-
-# product Price
+title: 'FLORAIKU: My love has the color of the night'
+category: FLORAIKU
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 50 ml + 10 ml
 price: "255"
-
-# Product Short Description
-shortDescription: "My Love has the Colour of the Night is a smoky wood – Guaiac Wood oil – and Vetiver oil as main notes with a hint of Patchouli oil give the fragrance the feeling of a tender summer night. **Ingredients**: Black-Pepper Essence, Guaiac Essence, Indonesian Patchouli Essence, Haiti Vetiver Essencelove has the color of the night.**50ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Ky është ai parfumi që të rizgjon nga kujtimet atë dashurinë që
+  ke ngjyrosur me penelat e ngjyrës së natës. Është një aromë druri të tymosuar, përqafuar
+  nga vaji i vetiverit dhe nuancat e vajit të patchoulit për t’i dhënë pikërisht aromën
+  e një nate të butë vere. **50ml & 10ml -EDP-UNISEX**
 productID: "41"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/floraiku/Mylove.jpg"
- 
+- image: images/products/floraiku/Mylove.jpg
+
 ---
