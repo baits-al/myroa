@@ -1,29 +1,17 @@
 ---
-title: "FLORAIKU: I see the clouds go by"
-category: "FLORAIKU"
-gender: "Unisex"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "50 ml + 10 ml" 
-
-
-# product Price
+title: 'FLORAIKU: I see the clouds go by'
+category: FLORAIKU
+gender: Unisex
+date: 2019-10-17T11:22:16.000+06:00
+description: 50 ml + 10 ml
 price: "255"
-
-# Product Short Description
-shortDescription: "I See the Clouds go By is a fruity floral Blackcurrant, determined as a Cassis soliflore; it is gradually enveloped with White Musk and Cherry Blossom, as if a cloud was passing by. **Ingredients**: Bergamot Essence, Petitgrain Essence, Davana Essence, Cherry Blossom Accord, Musk, Cedarwood.**50ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Imagjino të jesh shtrirë në një fushë të gjelbër dhe thjesht të
+  jesh duke kundruar retë puplore që shëtisin në qiell. Pikërisht këtë të kujton ky
+  parfum nga i cili mjafton të ndjesh aromën e një rrushi pa fara, kombinuar me lule
+  dhe fruta, që gradualisht mbështillen me myshkun e bardhë dhe lulet e qershisë.
+  **50ml & 10ml -EDP-UNISEX**
 productID: "48"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/floraiku/Clouds.jpg"
- 
+- image: images/products/floraiku/Clouds.jpg
+
 ---
