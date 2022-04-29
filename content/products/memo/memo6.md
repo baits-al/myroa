@@ -1,28 +1,15 @@
 ---
-title: "MEMO Irish Leather"
-category: "Memo"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "75 ml" 
-
-
-# product Price
+title: MEMO Irish Leather
+category: Memo
+date: 2019-10-17T11:22:16.000+06:00
+description: 75 ml
 price: "225"
-
-# Product Short Description
-shortDescription: "Feel the gallop of the wind that this fragrance brings when it blends his leather accord with the windy freshness of juniper berries and green mate absolute.  **75ml-EDP-UNISEX**"
-
-#product ID
+shortDescription: Pjesë e koleksionit nomad, kur vendos të hedhësh mbi lëkurë Irish
+  Leather fillon të ndjesh galopin e krelave të një kali që vrapon në fushat e gjelbëra
+  të pafundme ndërsa era sjell tek ty akordin e lëkurës dhe freskinë e kokrrave të
+  dëllinjës. **75ml-EDP-UNISEX**
 productID: "6"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/memo/Memo_5.jpg"
- 
+- image: images/products/memo/Memo_5.jpg
+
 ---
