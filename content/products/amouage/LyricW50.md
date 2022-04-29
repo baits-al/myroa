@@ -1,29 +1,17 @@
 ---
-title: "AMOUAGE: Lyric"
-category: "AMOUAGE"
-gender: "For Woman"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "50 ml" 
-
-
-# product Price
+title: 'AMOUAGE: Lyric'
+category: AMOUAGE
+gender: For Woman
+date: 2019-10-17T11:22:16.000+06:00
+description: 50 ml
 price: "240"
-
-# Product Short Description
-shortDescription:  "Beyond the transient beauty and purity of Lyric lingers a poignant song without a beginning and an end. Inspired by the rose, Lyric is a floral oriental fragrance suspended in time with a mythical melody.  **INGREDIENTS**: Bergamot, Spicy Cardamom, Cinnamon, Ginger. Rose, Angelica, Jasmine, Ylang-ylang, Geranium, Orris. Oakmoss, Musk, Wood, Patchouli, Vetiver, Sandalwood, Vanilla, Tonka Bean, Frankincense. **50ml-EDP-WOMAN**"
-
-#product ID
+shortDescription: 'Përtej bukurisë dhe pastërtisë kalimtare të këtij parfumi qëndron
+  një këngë prekëse pa fillim dhe pa fund. E frymëzuar nga trëndafili, Lyric është
+  një aromë orientale me lule që i reziston kohës. ** PËRBËRËSIT **:  Bergamot, kardamom
+  pikant, kanellë, xhenxhefil, trëndafil, jasemin, myshk, dru, paçuli, vetiver, dru
+  sandali, vanilje, fasule tonka, temjan. **50ml-EDP-WOMAN**'
 productID: "29"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/amouage/LyricW50.jpg"
- 
+- image: images/products/amouage/LyricW50.jpg
+
 ---
