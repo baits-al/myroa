@@ -1,29 +1,15 @@
 ---
-title: "MEMO Tamarindo"
-category: "Memo"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "75 ml" 
-
-
-# product Price
+title: MEMO Tamarindo
+category: Memo
+date: 2019-10-17T11:22:16.000+06:00
+description: 75 ml
 price: "225"
-
-# Product Short Description
-shortDescription: "Pineapple flower lined with lush wilderness, surrounded by turquoise waters beyond the primal forest and mountains. Giant tamarind trees are home to colourful parrots, their cries ringing through the jungle, the warm forest air made humid with forgotten scents. A round of captivating notes, a dizzying dance beneath the sun. Tamarindo is a well-guarded secret, a joyful landscape, a trail of happiness, a solar scent. Lose yourself, let the journey of this vagabond seed be your guide.  **75ml-EDP-UNISEX**"
-
-
-#product ID
+shortDescription: Ky parfum në zemër të tij ka lulen e ananasit të veshur me shkretëtirën
+  e harlisur, dhe rrethuar nga ujërat e pyllit përtej maleve. Pemët gjigante të tamarindeve
+  janë shtëpia e papagajve shumëngjyrësh dhe klithmat e tyre kumbojnë nëpër xhungël
+  ndërsa ti nuhat aromën e sjellë nga MEMO si një udhërrëfyes nomad.  **75ml-EDP-UNISEX**
 productID: "7"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/memo/Memo_5.jpg"
- 
+- image: images/products/memo/Memo_5.jpg
+
 ---
