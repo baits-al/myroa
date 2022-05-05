@@ -9,7 +9,7 @@ shortDescription: 'Ky parfum hapet me një freski të gjelbër të harlisur që 
   vesën e mëngjesit në kohën e pranverës. Një buqetë e sofistikuar me lule të bardha
   i jep parfumit një aromë të pasur dhe të thellë, ndërsa përqafohet nga myshqet dhe
   drurët e mbështjellë me nota të ngrohta qelibari. ** PËRBËRËSIT **: Zambak uji,
-  freesia, gjethet e gjelbra tropikale, lule manjole, jasemin, qelibar, myshk, dru
+  freesia, gjethe të gjelbra tropikale, lule manjole, jasemin, qelibar, myshk, dru
   kedri, dru sandali. **100ml-EDP-WOMAN**'
 productID: "27"
 images:
