@@ -12,6 +12,7 @@ shortDescription: Frymëzimi që qëndron pas Lil Fleur përmban buzëqeshjet n�
   as shafrani dhe mandarina. **100ml-EDP-UNISEX**
 productID: "18"
 images:
+- image: "/uploads/byredo-5.png"
 - image: images/products/byredo/Blond Wood.jpg
 
 ---
