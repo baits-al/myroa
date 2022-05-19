@@ -11,6 +11,6 @@ shortDescription: 'Një forcë nuhatëse lind kur takohen dy botë: COMPLIMENT d
   për të krijuar tensionin e duhur të sensualitetit.  **75ml-EDP-UNISEX**'
 productID: "49"
 images:
-- image: images/products/violet/Compliment.jpg
+- image: "/uploads/compliment.png"
 
 ---
