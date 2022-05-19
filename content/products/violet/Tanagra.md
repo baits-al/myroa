@@ -13,6 +13,6 @@ shortDescription: Duke zbuluar të padukshmen, aromën ndjellëse të asaj që n
   bukuria e trëndafilit dhe pastërtia e frezias dhe  irisit.  **75ml-EDP-UNISEX**
 productID: "52"
 images:
-- image: "/uploads/tanagra1.png"
+- image: "/uploads/tanagra.png"
 
 ---
