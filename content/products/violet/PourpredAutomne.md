@@ -13,6 +13,5 @@ shortDescription: Një buzëkuq i lehtë në faqen e purpurt që përkëdhel leh
 productID: "53"
 images:
 - image: "/uploads/pda.png"
-- image: images/products/violet/PDA.jpg
 
 ---
