@@ -13,6 +13,7 @@ shortDescription: Për ata persona që janë gjithmonë duke kërkuar aromën e 
   ëmbëlsia e egër në çdo spërkatje. **100ml-EDP-UNISEX**
 productID: "16"
 images:
+- image: "/uploads/byredo-6.png"
 - image: images/products/byredo/Amber.jpg
 
 ---
