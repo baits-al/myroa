@@ -12,6 +12,7 @@ shortDescription: Koleksioni Lil Fleur është lancuar në vitin 2020 dhe ësht�
   të mandarinës dhe shafrani qetëson me tonet e tij të ngrohta.  **100ml-EDP-UNISEX**
 productID: "19"
 images:
+- image: "/uploads/byredo-2.png"
 - image: images/products/byredo/Saffron.jpg
 
 ---
