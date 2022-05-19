@@ -12,6 +12,7 @@ shortDescription: Një buzëkuq i lehtë në faqen e purpurt që përkëdhel leh
   që dorëzohen nën prekjen e  kohës.  **75ml-EDP-UNISEX**
 productID: "53"
 images:
+- image: "/uploads/pda.png"
 - image: images/products/violet/PDA.jpg
 
 ---
