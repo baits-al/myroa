@@ -13,6 +13,7 @@ shortDescription: Lil Fleur është një aromë e pazakontë për meshkuj dhe fe
   në këtë koleksion. **100ml-EDP-UNISEX**
 productID: "20"
 images:
+- image: "/uploads/byredo-4.png"
 - image: images/products/byredo/Cassis.jpg
 
 ---
