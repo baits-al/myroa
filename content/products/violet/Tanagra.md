@@ -14,6 +14,5 @@ shortDescription: Duke zbuluar të padukshmen, aromën ndjellëse të asaj që n
 productID: "52"
 images:
 - image: "/uploads/tanagra.png"
-- image: images/products/violet/Tanagra.jpg
 
 ---
