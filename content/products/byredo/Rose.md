@@ -12,6 +12,7 @@ shortDescription: Nëse ju pëlqejnë aromat që sjellin kujtime të gjalla atë
   prekur nga tonet e lehta të drurit, trëndafilit dhe lëkurës.  **100ml-EDP-UNISEX**
 productID: "17"
 images:
+- image: "/uploads/byredo-3.png"
 - image: images/products/byredo/Rose.jpg
 
 ---
