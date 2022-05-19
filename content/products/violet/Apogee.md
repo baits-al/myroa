@@ -13,6 +13,5 @@ shortDescription: 'Aromë robëruese si një ekuinoks i tërheqjes, mishërim i 
 productID: "50"
 images:
 - image: "/uploads/apoge.png"
-- image: images/products/violet/Apogee.jpg
 
 ---
