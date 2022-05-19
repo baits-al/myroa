@@ -13,6 +13,5 @@ shortDescription: Dhe të mendosh se diçka kaq e thjeshtë si një aromë, mund
 productID: "15"
 images:
 - image: "/uploads/byredo-1.png"
-- image: images/products/byredo/Tangerine.jpg
 
 ---
