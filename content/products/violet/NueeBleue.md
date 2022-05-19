@@ -12,6 +12,7 @@ shortDescription: Një moment pezull mbi një peisazh të egër, si kënga e par
   në orën e ëmbëlsisë.  **75ml-EDP-UNISEX**
 productID: "54"
 images:
+- image: "/uploads/nuee-bleu.png"
 - image: images/products/violet/NueeBleue.jpeg
 
 ---
