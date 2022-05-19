@@ -13,6 +13,5 @@ shortDescription: Koleksioni Lil Fleur është lancuar në vitin 2020 dhe ësht�
 productID: "19"
 images:
 - image: "/uploads/byredo-2.png"
-- image: images/products/byredo/Saffron.jpg
 
 ---
