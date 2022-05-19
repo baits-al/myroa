@@ -14,6 +14,5 @@ shortDescription: Për ata persona që janë gjithmonë duke kërkuar aromën e 
 productID: "16"
 images:
 - image: "/uploads/byredo-6.png"
-- image: images/products/byredo/Amber.jpg
 
 ---
