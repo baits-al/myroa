@@ -14,6 +14,5 @@ shortDescription: Pasuria e këtij parfumi përputhet vetëm me elegancën e tij
 productID: "51"
 images:
 - image: "/uploads/sketch.png"
-- image: images/products/violet/Sketch.jpg
 
 ---
