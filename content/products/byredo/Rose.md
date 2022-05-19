@@ -13,6 +13,5 @@ shortDescription: Nëse ju pëlqejnë aromat që sjellin kujtime të gjalla atë
 productID: "17"
 images:
 - image: "/uploads/byredo-3.png"
-- image: images/products/byredo/Rose.jpg
 
 ---
