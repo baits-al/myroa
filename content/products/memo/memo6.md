@@ -11,6 +11,5 @@ shortDescription: Pjesë e koleksionit nomad, kur vendos të hedhësh mbi lëkur
 productID: "6"
 images:
 - image: "/uploads/memo-4.png"
-- image: images/products/memo/Memo_5.jpg
 
 ---
