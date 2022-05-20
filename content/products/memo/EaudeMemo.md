@@ -11,6 +11,5 @@ shortDescription: Ky është parfumi që përfaqëson markën me zogun që pusho
 productID: "2"
 images:
 - image: "/uploads/memo-6.png"
-- image: images/products/memo/Memo_5.jpg
 
 ---
