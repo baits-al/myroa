@@ -2,7 +2,7 @@
 title: 'AMOUAGE: Dia'
 category: AMOUAGE
 gender: For MAN
-date: 2019-10-17T11:22:16.000+06:00
+date: 2022-05-20T00:00:00+02:00
 description: 50 ml
 price: "250"
 shortDescription: 'Eleganca plotësohet me një parfum si Amouage Dia, një  aromë e
