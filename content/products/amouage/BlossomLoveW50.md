@@ -2,7 +2,7 @@
 title: 'AMOUAGE: Blossom Love'
 category: AMOUAGE
 gender: For Woman
-date: 2022-05-20T00:00:00+02:00
+date: 2020-02-06T00:00:00+01:00
 description: 50 ml
 price: "240"
 shortDescription: 'Një gjurmë aromash e luleve të qershisë që krijon një romancë nuhatëse
