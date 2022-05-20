@@ -1,0 +1,35 @@
+---
+label: Parfume
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: category
+  label: category
+- type: text
+  name: gender
+  label: gender
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: price
+  label: price
+- type: textarea
+  name: shortDescription
+  label: shortDescription
+- type: text
+  name: productID
+  label: productID
+- type: field_group_list
+  name: images
+  label: images
+  fields:
+  - type: file
+    name: image
+    label: image
