@@ -1,7 +1,7 @@
 ---
 title: MEMO Irish Leather
 category: Memo
-date: 2019-10-17T11:22:16.000+06:00
+date: 2019-10-17T07:27:16+02:00
 description: 75 ml
 price: "200"
 shortDescription: Pjesë e koleksionit nomad, kur vendos të hedhësh mbi lëkurë Irish
