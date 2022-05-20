@@ -10,6 +10,5 @@ shortDescription: Mbyllni sytë pasi spruconi këtë parfum dhe dëgjoni këngë
 productID: "1"
 images:
 - image: "/uploads/memo-2.png"
-- image: images/products/memo/Memo_5.jpg
 
 ---
