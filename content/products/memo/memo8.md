@@ -11,6 +11,5 @@ shortDescription: Sapo sprucon pak nga ky parfum, aroma tÃ« largon me imagjinatÃ
 productID: "8"
 images:
 - image: "/uploads/memo-5.png"
-- image: images/products/memo/Memo_5.jpg
 
 ---
