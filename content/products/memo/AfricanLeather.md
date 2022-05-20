@@ -11,6 +11,5 @@ shortDescription: Ky parfum frymëzohet nga kontinenti afrikan dhe sapo spërkat
 productID: "3"
 images:
 - image: "/uploads/memo-8.png"
-- image: images/products/memo/Memo_5.jpg
 
 ---
