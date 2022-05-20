@@ -1,6 +1,6 @@
 +++
 category = "SOMENS"
-date = 2022-05-19T22:00:00Z
+date = 2022-05-20T09:00:00Z
 description = "2 ml"
 gender = "Unisex"
 price = "37"
