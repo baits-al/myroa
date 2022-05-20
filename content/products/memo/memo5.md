@@ -11,6 +11,5 @@ shortDescription: Një aromë që zbret mbi një re çaji dhe me imagjinatë të
 productID: "5"
 images:
 - image: "/uploads/memo-3.png"
-- image: images/products/memo/Memo_5.jpg
 
 ---
