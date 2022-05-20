@@ -10,6 +10,7 @@ shortDescription: Ky parfum në zemër të tij ka lulen e ananasit të veshur me
   ndërsa ti nuhat aromën e sjellë nga MEMO si një udhërrëfyes nomad.  **75ml-EDP-UNISEX**
 productID: "7"
 images:
+- image: "/uploads/memo-7.png"
 - image: images/products/memo/Memo_5.jpg
 
 ---
