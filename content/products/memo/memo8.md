@@ -8,7 +8,7 @@ shortDescription: Sapo sprucon pak nga ky parfum, aroma të largon me imagjinat�
   një akullnajë të heshtur. Në këtë mbretëri të stepave të zymta, pyjeve të pafundme
   dhe fushave të akullta, guximi i jetës së bimëve shfaqet me lavdi të plotë për t’u
   mbledhur brenda një shishe parfumi nga Memo.  **75ml-EDP-UNISEX**
-productID: "8"
+productID: "7"
 images:
 - image: "/uploads/memo-5.png"
 

@@ -8,7 +8,7 @@ shortDescription: Ky parfum në zemër të tij ka lulen e ananasit të veshur me
   e harlisur, dhe rrethuar nga ujërat e pyllit përtej maleve. Pemët gjigante të tamarindeve
   janë shtëpia e papagajve shumëngjyrësh dhe klithmat e tyre kumbojnë nëpër xhungël
   ndërsa ti nuhat aromën e sjellë nga MEMO si një udhërrëfyes nomad.  **75ml-EDP-UNISEX**
-productID: "7"
+productID: "8"
 images:
 - image: "/uploads/memo-7.png"
 
