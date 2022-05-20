@@ -2,7 +2,6 @@
 category = "SOMENS"
 date = 2022-05-19T22:00:00Z
 description = "100 ml"
-draft = true
 gender = "Unisex"
 price = "175"
 productID = "61"
