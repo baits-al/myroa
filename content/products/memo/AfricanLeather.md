@@ -1,7 +1,7 @@
 ---
 title: MEMO African Leather
 category: Memo
-date: 2019-10-17T11:22:16.000+06:00
+date: 2022-05-20T00:00:00+02:00
 description: 75 ml
 price: "200"
 shortDescription: Ky parfum frymëzohet nga kontinenti afrikan dhe sapo spërkatet pak
