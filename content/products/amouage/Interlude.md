@@ -2,7 +2,7 @@
 title: 'AMOUAGE: Interlude'
 category: AMOUAGE
 gender: For MAN
-date: 2022-05-20T00:00:00+02:00
+date: 2019-03-22T00:00:00+01:00
 description: 100 ml
 price: "325"
 shortDescription: 'Frymëzuar nga kaosi dhe rrëmuja, kjo aromë pikante dhe drusore
