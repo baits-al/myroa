@@ -10,6 +10,7 @@ shortDescription: Ngjyrat e ndezura të irisit, frymëzuar nga rrugicat plot aro
   sapo e sprucon pak në lëkurë.  **75ml-EDP-UNISEX**
 productID: "4"
 images:
+- image: "/uploads/memo-1.png"
 - image: images/products/memo/Memo_5.jpg
 
 ---
