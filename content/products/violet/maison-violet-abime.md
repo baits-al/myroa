@@ -2,7 +2,6 @@
 category = "VIOLET"
 date = 2022-11-08T23:02:00Z
 description = ""
-draft = true
 gender = "UNISEX"
 price = "155"
 productID = "69"
