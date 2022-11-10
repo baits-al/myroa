@@ -1,14 +1,14 @@
 +++
 category = "VIOLET"
-date = 2019-10-17T05:22:16Z
+date = 2019-10-17T05:21:00Z
 description = "75 ml"
 draft = true
 gender = "Unisex"
 price = "155"
-productID = "50"
-shortDescription = "Aromë robëruese si një ekuinoks i tërheqjes, mishërim i joshjes dhe zotërimit. Parfum që magjeps atë që e posedon dhe nënshtron këdo që e nuhat. Un Air d'Apogée është konceptuar si parfumi i kontrasteve: nga njëra anë drita e përhapur e mimozës dhe nga ana tjetër, kadifeja e thellë e kamoshit. Një melodi nuhatëse që të përkund butë gjithmonë.   **75ml-EDP-UNISEX**"
-title = "MAISON VIOLET: Un Air d'apogee -(copy)"
+productID = "71"
+shortDescription = "ABÎME vjen nga asgjëja për të qëndruar përgjithmonë i shkrirë mbi lëkurë si një përqafim i ngrohtë. Qëndron gjatë gjithë ditës me ty, për të tërhequr si magnet dëshirën e dikujt për më shumë. Aroma e drurit, specit të kuq dhe temjanit bëhen udhërrëfyesit e tu nëpër abisin e ndjesive. **75ml-EDP-UNISEX**"
+title = "MAISON VIOLET: ABÎME"
 [[images]]
-image = "/uploads/apoge.png"
+image = ""
 
 +++
