@@ -2,7 +2,6 @@
 category = "Unisex"
 date = ""
 description = "75 ml"
-draft = true
 gender = "UNISEX"
 price = "155"
 productID = "71"
@@ -10,7 +9,5 @@ shortDescription = "ABÎME vjen nga asgjëja për të qëndruar përgjithmonë i
 title = "MAISON VIOLET: ABÎME"
 [[images]]
 image = "/uploads/306107278_4959580664142522_8590369613249482549_n.jpg"
-[[images]]
-image = ""
 
 +++
